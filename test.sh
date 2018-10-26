@@ -4,7 +4,8 @@
 #read num
 #while [ $num -gt 0 ]
 #do
-#echo "$num"
+#echo "$(num) is greater than zero"
+
 #num=$(( $num -1 ))
 #done
 
